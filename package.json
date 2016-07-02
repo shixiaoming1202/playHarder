@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "play harder",
   "author": "Alex",
-  "scripts": {
-    
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/shixiaoming1202/playHarder"
